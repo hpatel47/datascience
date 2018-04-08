@@ -1,12 +1,10 @@
 # datascience
 Project 1
-#  Objective for this project is to find out if Travelor survey rating is impacted by Flight Delay, Weather, 
- Specific Airport or Ticker Fair
+#### Objective for this project is to find out if Travelor survey rating is impacted by Flight Delay, Weather, Ticket fair, Loyalty Status or Airport location.
 
 
 
-## Hypothis: Customer will be impacted by Flight Delay, Airport location, Loyalty status and Weather 
-## should not corelate with ticket fair
+#### Hypothis: Customer will be impacted by Flight Delay, Airport location, Loyalty status and Weather should not corelate with ticket fair
 
 
 #Data Set: Customer Detail, Flight Detail, Ticket Detail, location information.
